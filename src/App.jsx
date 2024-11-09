@@ -14,6 +14,7 @@ function App() {
         params: {
           lat: lat,
           lon: lon,
+        
           lang: 'pt',
           units: 'metric' //para aparecer em Celsius
         }
